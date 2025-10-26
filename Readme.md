@@ -1,1 +1,1 @@
-Additional Experimentss [Additional_T1-2.jpg]
+![Additional Experiments](./Additional_T1-2.jpg)
