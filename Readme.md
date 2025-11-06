@@ -78,20 +78,6 @@ model.eval()
 # Inference on RGB-D image pair
 saliency_map = model(rgb_image, depth_map)
 ```
-
-## 📈 Benchmark Datasets
-
-We evaluate LiSalNet on six widely-used RGB-D SOD benchmarks:
-
-| Dataset | Images | Resolution | Year |
-|---------|--------|-----------|------|
-| NJU2K | 2,003 | 640×480 | 2014 |
-| NLPR | 1,000 | 640×480 | 2014 |
-| STERE | 1,000 | Various | 2012 |
-| DES | 135 | Various | 2014 |
-| LFSD | 100 | Various | 2014 |
-| SIP | 929 | Various | 2017 |
-
 ## 🔧 Training (Coming Soon)
 ```bash
 # Training script will be available after acceptance
