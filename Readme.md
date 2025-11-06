@@ -32,12 +32,17 @@
 
 **Evaluation on 6 Benchmark Datasets**: NJU2K, NLPR, STERE, DES, LFSD, and SIP
 
-### Qualitative Results
+### Additional Raw Results
 
 <div align="center">
-  <img src="assets/qualitative_results.png" alt="Visual Comparisons" width="95%">
+  <img src="./Additional_T1-2.jpg" alt="Visual Comparisons" width="95%">
 </div>
 
+### Additional Raw Results
+
+<div align="center">
+  <img src="./performance_lines.png" alt=" Comparisons" width="95%">
+</div>
 ## 🚀 Code & Resources
 
 > **Note**: The complete source code will be publicly available after paper acceptance.
@@ -149,5 +154,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
-![Additional Experiments](./Additional_T1-2.jpg)
-![Additional Experiments](./performance_lines.png)
+
