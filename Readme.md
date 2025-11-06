@@ -21,24 +21,14 @@
 - **Parallel Focus Unit refines spatial details and channel responses efficiently**
 - **Real-time performance: 1515 FPS, 16.77MB model, 0.5GB memory footprint**
 
-## 🏗️ Architecture
-
-LiSalNet consists of four key components:
-
-1. **Dual-Stream Encoder**: MobileNetV2-based feature extraction for RGB and depth modalities
-2. **Hierarchical Cross-Modal Fusion**:
-   - **Modality Alignment Networks (MANs)**: Cross-attention mechanisms for low/high-level feature alignment
-   - **Symmetric Fusion Blocks (SFBs)**: Bidirectional information exchange for mid-level features
-3. **Dilated Perception Module (DPM)**: Parallel dilated convolutions for multi-scale context
-4. **Parallel Focus Unit (PFU)**: Dual-path refinement with Dual-Pool Attention Gates and Spatial Detail Refiners
 
 ## 📊 Performance
 
-### Quantitative Results
+### Additional Quantitative Results
 
-| Method | Params (M) | GFLOPs | FPS | Model Size (MB) | Memory (GB) | NJU2K MAE ↓ |
-|--------|-----------|--------|-----|-----------------|-------------|-------------|
-| LiSalNet | **4.40** | **1.33** | **1515** | **16.77** | **0.5** | **0.0XXX** |
+| Method | Params (M) | GFLOPs | FPS | Model Size (MB) | Memory (GB) |
+|--------|-----------|--------|-----|-----------------|-------------|
+| LiSalNet | **4.40** | **1.33** | **1515** | **16.77** | **0.5** |
 
 **Evaluation on 6 Benchmark Datasets**: NJU2K, NLPR, STERE, DES, LFSD, and SIP
 
