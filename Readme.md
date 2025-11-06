@@ -12,9 +12,6 @@
 
 **LiSalNet** is an efficient lightweight framework for RGB-D salient object detection that achieves state-of-the-art performance while maintaining exceptional computational efficiency. With only **4.40M parameters** and **1.33 GFLOPs**, LiSalNet delivers **1515 FPS** real-time inference with a compact **16.77MB** model size and **0.5GB** memory footprint.
 
-<div align="center">
-  <img src="assets/architecture.png" alt="LiSalNet Architecture" width="90%">
-</div>
 
 ## 🔥 Highlights
 
