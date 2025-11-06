@@ -14,7 +14,7 @@
 
 ## 📊 Performance and Efficiency
 
-**Evaluation on 6 Benchmark Datasets**: NJU2K, NLPR, STERE, DES, LFSD, and SIP. **More Results are coming soon **
+**Evaluation on 6 Benchmark Datasets**: NJU2K, NLPR, STERE, DES, LFSD, and SIP. *More Results are coming soon*
 
 
 ### Additional Visual Insights (*More Visuals are coming soon*)
