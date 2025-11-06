@@ -21,10 +21,10 @@
 |--------|-----------|--------|-----|-----------------|-------------|
 | LiSalNet | **4.40** | **1.33** | **1515** | **16.77** | **0.5** |
 
-**Evaluation on 6 Benchmark Datasets**: NJU2K, NLPR, STERE, DES, LFSD, and SIP. More Results are coming soon 
+**Evaluation on 6 Benchmark Datasets**: NJU2K, NLPR, STERE, DES, LFSD, and SIP. **More Results are coming soon **
 
 
-### Additional Visual Insights
+### Additional Visual Insights (**More Visuals are coming soon **)
 
 <div align="center">
   <img src="./performance_lines.png" alt=" Comparisons" width="95%">
