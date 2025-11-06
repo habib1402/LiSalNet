@@ -32,13 +32,8 @@
 
 **Evaluation on 6 Benchmark Datasets**: NJU2K, NLPR, STERE, DES, LFSD, and SIP
 
-### Additional Raw Results
 
-<div align="center">
-  <img src="./Additional_T1-2.jpg" alt="Visual Comparisons" width="95%">
-</div>
-
-### Additional Raw Results
+### Additional Visual Insights
 
 <div align="center">
   <img src="./performance_lines.png" alt=" Comparisons" width="95%">
