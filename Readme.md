@@ -49,19 +49,17 @@
 
 > **Note**: The complete source code will be publicly available after paper acceptance.
 
-### Available Now
 
-- ✅ **Pre-trained Models**: [Download Models](link-to-models)
-- ✅ **Visual Predictions**: [Download Results on All Datasets](link-to-predictions)
+
+### Coming Soon (After Acceptance)
+- ✅ **Pre-trained Models**: Will be released on the link [Download Models](link-to-models)
+- ✅ **Visual Predictions**: Will be released on the link [Download Results on All Datasets](link-to-predictions)
   - NJU2K Dataset Predictions
   - NLPR Dataset Predictions
   - STERE Dataset Predictions
   - DES Dataset Predictions
   - LFSD Dataset Predictions
   - SIP Dataset Predictions
-
-### Coming Soon (After Acceptance)
-
 - 🔜 Complete training code
 - 🔜 Inference scripts
 - 🔜 Model architecture implementation
@@ -128,14 +126,14 @@ If you find LiSalNet useful in your research, please consider citing:
   title={LiSalNet: Lightweight Saliency Detection Network for RGB-D Images},
   author={Author Names},
   journal={Journal Name},
-  year={2025}
+  year={}
 }
 ```
 
 ## 📧 Contact
 
 For questions and discussions, please contact:
-- **Primary Author**: [Email]
+- **Primary Author**: [habibkhan@ieee.org]
 - **Lab**: Computational Imaging & Perception Lab, Gachon University
 
 ## 🙏 Acknowledgments
