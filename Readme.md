@@ -2,7 +2,6 @@
 
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](link-to-paper)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Framework](https://img.shields.io/badge/Framework-PyTorch-orange)](https://pytorch.org/)
 
