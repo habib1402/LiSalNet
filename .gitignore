@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
+*~
+
+# Local data and generated artifacts
+data/
+datasets/
+maps/
+preds/
+score/
+*.pth
+*.pth.tar
+profiling*.json
+evaluation*.json
+training.jsonl
+configuration.json
+
+# Internal manuscript/audit artifacts retained only in the server package
+docs/CHANGES_AND_RESULTS.md
+docs/SECTION_3_ALIGNMENT.md
+docs/Section_3_revised.tex
+docs/changes.patch
+verification/package_sha256.json
+verification/structural_results.json
+verification/verification_summary.json

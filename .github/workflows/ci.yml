@@ -1,0 +1,22 @@
+name: release checks
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  static-verification:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+      - name: Compile Python sources
+        run: python -m compileall -q .
+      - name: Check shell launchers
+        run: bash -n train.sh test.sh
+      - name: Run dependency-free architecture audit
+        run: python verification/structural_audit.py models --output /tmp/structural_results.json
+      - name: Check checkpoint migration cases
+        run: python verification/check_checkpoint_logic.py

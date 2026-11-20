@@ -1,0 +1,8 @@
+# Install PyTorch for the target CPU/CUDA environment first. The published
+# LiSalNet timing row used torch 2.1.1+cu121; see docs/REPRODUCIBILITY.md.
+numpy>=1.18,<2.3.5
+opencv-python-headless>=4.7,<5
+tqdm>=4.60
+pysodmetrics==1.6.2
+# Operation profiler used for the published GMAC/GFLOP convention.
+thop==0.1.1.post2209072238

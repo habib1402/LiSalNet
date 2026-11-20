@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use LiSalNet, please cite the published article."
+title: "LiSalNet"
+type: software
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/habib1402/LiSalNet"
+authors:
+  - family-names: Khan
+    given-names: Habib
+    email: habibkhan@ieee.org
+  - family-names: Usman
+    given-names: Muhammad Talha
+  - family-names: Koo
+    given-names: JaKeoung
+    email: jakeoung@gachon.ac.kr
+preferred-citation:
+  type: article
+  title: "Efficient RGB-D saliency detection via hierarchical heterogeneous alignment with parallel focus units"
+  authors:
+    - family-names: Khan
+      given-names: Habib
+    - family-names: Usman
+      given-names: Muhammad Talha
+    - family-names: Koo
+      given-names: JaKeoung
+  journal: "Pattern Recognition"
+  volume: "184"
+  year: 2027
+  start: "115292"
+  doi: "10.1016/j.patcog.2026.115292"
