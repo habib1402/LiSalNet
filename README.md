@@ -215,6 +215,11 @@ This work was supported by the Gachon University research fund of 2024
 [PySODMetrics](https://github.com/lartpang/PySODMetrics); pseudo-depth is
 generated with [Depth Anything V2](https://github.com/DepthAnything/Depth-Anything-V2).
 
+## Contact
+
+For further questions and research collaborations, contact Habib Khan at
+[habibkhan@ieee.org](mailto:habibkhan@ieee.org).
+
 ## License
 
 LiSalNet-owned code is released under the [MIT License](LICENSE). External
